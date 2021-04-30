@@ -380,6 +380,10 @@ p {
     width: 35%;
 }
 
+.btn-mail {
+    color: #ea4883;
+}
+
 .navbar-light .navbar-brand {
     margin-right: 10%;
     width: 25%;
