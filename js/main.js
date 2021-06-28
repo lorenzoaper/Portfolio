@@ -1,5 +1,3 @@
-
-
 $('.interactive-menu-button a').click(function() {
     $(this).toggleClass('active');
 });
