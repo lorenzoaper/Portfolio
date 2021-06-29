@@ -521,7 +521,7 @@ span h1 {
 
 .cover-p {
     position: absolute;
-    margin-top: 25%;
+    margin-top: 50%;
     left: 16%;
     text-align: justify;
     color: azure;
@@ -542,8 +542,7 @@ span h1 {
 
 .btn-retour {
     position: absolute;
-    margin-top: 25%;
-    left: 15%;
+    left: 6%;
     margin: 0%;
 }
 
